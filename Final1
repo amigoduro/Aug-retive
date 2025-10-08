@@ -34,7 +34,9 @@ class Final1
 {
 	public static void main(String args[])
 	{
-		ramen c = new ramen();
+		
+		two c = new two();		
+		//ramen c = new ramen();
 		c.add(12,12);	
 		c.concat(12,12);
 		
