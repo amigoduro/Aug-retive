@@ -42,6 +42,8 @@ class Final1
 		
 					// print statements 
 		System.out.println("The initial class");
+		System.out.println("The first input number is "+a1);
+		System.out.println("The second input number is "+a2);
 		System.out.println("Answer of  Ist Paremeters : "+c.sum());
 		System.out.println("Answer of  IInd Parameters :"+c.consin());
 	}
