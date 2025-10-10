@@ -4,17 +4,17 @@ class one
 	void add(int x,int y)
 	{
 		
-		a1=x;
+		a1=x;					// variable conversion 
 		a2=y;
 	}
 		
 	int sum()
 	{
-		return(a1+a2);
+		return(a1+a2);										
 	}
 }
 
-class two extends one
+class two extends one				
 {
 	int b1,b2;
 	void concat(int n,int v)
@@ -35,9 +35,9 @@ class Final1
 	public static void main(String args[])
 	{
 		
-		two c = new two();		
+		two c = new two();						//	
 		//ramen c = new ramen();
-		c.add(12,12);	
+		c.add(12,12);		
 		c.concat(12,12);
 		
 					// print statements 
