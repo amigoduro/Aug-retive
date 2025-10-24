@@ -46,5 +46,6 @@ class Final1
 		System.out.println("The second input number is "+a2);
 		System.out.println("Answer of  Ist Paremeters : "+c.sum());
 		System.out.println("Answer of  IInd Parameters :"+c.consin());
+		
 	}
 }
