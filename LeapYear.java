@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class LeapYear 
 {
-    public static void main(String[] args) 
+    public static void main(String args[]) 
     
     {
       int year,ex,btime;
