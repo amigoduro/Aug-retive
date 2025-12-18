@@ -1,7 +1,7 @@
 class one
 {
 	int a1,a2;
-	void add(int x,int y)
+	void add(int x,int y) 
 	{
 		
 		a1=x;					// variable conversion 
