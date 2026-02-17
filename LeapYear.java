@@ -4,7 +4,7 @@ class LeapYear
 {
     public static void main(String args[])  
      
-    {
+    {   
       int year,ex,btime;    
         
         Scanner sc = new Scanner(System.in);
