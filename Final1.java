@@ -1,5 +1,6 @@
 class one    
 {
+	
 	int a1,a2;
 	void add(int x,int y)      
 	{
