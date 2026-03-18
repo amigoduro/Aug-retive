@@ -36,7 +36,7 @@ class Final1
 {
 	public static void main(String args[])
 	{
-		
+		 
 		two c = new two();						//	
 		//ramen c = new ramen();				// calling statement At first create a object and then call for function/method 
 		c.add(12,12);		
