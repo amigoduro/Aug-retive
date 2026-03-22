@@ -6,7 +6,7 @@ class LeapYear
     {   
       int year,ex,btime;    
         
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);  
        
         System.out.print("Enter a year: ");      
         
