@@ -7,7 +7,7 @@ class one
 		
 		a1=x;					// variable conversion      
 		a2=y;					// declaration varaiable
-		
+		   
 	}
 		
 	int sum()
