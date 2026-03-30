@@ -10,7 +10,7 @@ class LeapYear
        
         System.out.print("Enter a year: ");      
         
-         year = sc.nextInt();            
+         year = sc.nextInt();               
 
         if((year % 400 == 0) || (year % 4 == 0 && year % 100 != 0))	    //  quite understand 400 use for century and 4 for years and at end year divide by 
         //{ 
